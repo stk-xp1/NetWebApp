@@ -2,4 +2,4 @@
 
 __For fun__
     
-    Mostly wrotten by AI 
+    Mostly written by AI 
