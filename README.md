@@ -1,5 +1,5 @@
 # NetWebApp
 
-__For fun__
+__For Training__
     
-    Mostly written by AI 
+     
